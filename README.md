@@ -14,7 +14,7 @@
 2. In this repo, we have released only 100 images from the test data. We plan to make the complete dataset publicly available soon.
 --------------------------------------------------------------------------
 
-Download the aeria gait dataset: https://asankagp.github.io/aerialgaitdataset/
+Download the dataset: https://asankagp.github.io/aerialgaitdataset/
 
 --------------------------------------------------------------------------
 
