@@ -13,6 +13,11 @@
 
 2. In this repo, we have released only 100 images from the test data. We plan to make the complete dataset publicly available soon.
 --------------------------------------------------------------------------
+
+Download the aeria gait dataset: https://asankagp.github.io/aerialgaitdataset/
+
+--------------------------------------------------------------------------
+
 If you use this code please cite the following paper:
  
 Asanka G. Perera, Yee Wei Law, Ali Al-Naji, Javaan Chahl, (2018) 
